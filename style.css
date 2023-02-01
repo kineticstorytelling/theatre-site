@@ -1,1 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,600;0,700;1,100;1,300;1,400;1,500;1,600;1,700&family=Roboto:wght@300;400;500&display=swap');
+
+
+.hero{
+    background-image: url(/assets/white-crumpled-paper-texture-background-design-space-white-tone.jpg);
+    background-position: center;
+}
+.title{
+    font-family: 'poppins';
+    font-size: 45px;
+    color: black;
+    font-weight: 700;
+    background-color: rgb(19, 214, 120);
+    border: 4px solid black;
+    transform: skew(15deg, 5deg);
+    /* border-bottom: 50px solid rgb(19, 214, 120);
+    border-left: 25px solid rgb(19, 214, 120) ;
+    border-right: 50px solid rgb(19, 214, 120); */
+}
+.titlea{
+    transform: skew(-15deg, -5deg);
+    text-decoration: none;
+}
