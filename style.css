@@ -20,4 +20,5 @@
 .titlea{
     transform: skew(-15deg, -5deg);
     text-decoration: none;
+    margin: auto;
 }
